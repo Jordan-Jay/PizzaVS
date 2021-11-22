@@ -1,0 +1,12 @@
+C:\Users\jordan.jay\OneDrive - NSW Department of Education\GitHub\PizzaVS\VB-Pizza-v1022\bin\Debug\Pizza101.exe.config
+C:\Users\jordan.jay\OneDrive - NSW Department of Education\GitHub\PizzaVS\VB-Pizza-v1022\bin\Debug\Pizza101.exe
+C:\Users\jordan.jay\OneDrive - NSW Department of Education\GitHub\PizzaVS\VB-Pizza-v1022\bin\Debug\Pizza101.pdb
+C:\Users\jordan.jay\OneDrive - NSW Department of Education\GitHub\PizzaVS\VB-Pizza-v1022\bin\Debug\Pizza101.xml
+C:\Users\jordan.jay\OneDrive - NSW Department of Education\GitHub\PizzaVS\VB-Pizza-v1022\obj\Debug\Pizza101.Pizza1022.resources
+C:\Users\jordan.jay\OneDrive - NSW Department of Education\GitHub\PizzaVS\VB-Pizza-v1022\obj\Debug\Pizza101.Resources.resources
+C:\Users\jordan.jay\OneDrive - NSW Department of Education\GitHub\PizzaVS\VB-Pizza-v1022\obj\Debug\VB-Pizza-v1022.vbproj.GenerateResource.cache
+C:\Users\jordan.jay\OneDrive - NSW Department of Education\GitHub\PizzaVS\VB-Pizza-v1022\obj\Debug\VB-Pizza-v1022.vbproj.CoreCompileInputs.cache
+C:\Users\jordan.jay\OneDrive - NSW Department of Education\GitHub\PizzaVS\VB-Pizza-v1022\obj\Debug\Pizza101.exe
+C:\Users\jordan.jay\OneDrive - NSW Department of Education\GitHub\PizzaVS\VB-Pizza-v1022\obj\Debug\Pizza101.xml
+C:\Users\jordan.jay\OneDrive - NSW Department of Education\GitHub\PizzaVS\VB-Pizza-v1022\obj\Debug\Pizza101.pdb
+C:\Users\jordan.jay\OneDrive - NSW Department of Education\GitHub\PizzaVS\VB-Pizza-v1022\obj\Debug\VB-Pizza-v1022.vbproj.AssemblyReference.cache
